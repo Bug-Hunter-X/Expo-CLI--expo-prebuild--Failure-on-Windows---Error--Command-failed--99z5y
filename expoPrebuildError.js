@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an error related to the `expo prebuild` command.  The error message was vague and unhelpful, simply stating "Error: Command failed." The issue only occurred on my Windows machine; the same project built correctly on a macOS machine. I suspect it's related to some environment variable or path configuration that's incorrect on my Windows setup.
